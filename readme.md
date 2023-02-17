@@ -6,3 +6,5 @@
 let num = 1;
 ```
 hello
+
+hello 2
